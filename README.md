@@ -1,2 +1,2 @@
-# Comentor_django
-Comentor_Django Project
+# Comento_django
+Comento_Django Project
