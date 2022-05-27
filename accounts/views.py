@@ -17,6 +17,3 @@ def signup(request):
         form = SignupForm()
 
     return render(request, 'accounts/signup.html', {'form': form})
-
-def logout(request):
-        logout(request)
